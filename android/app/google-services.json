@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "995196325695",
+    "project_id": "realestate-managementdb",
+    "storage_bucket": "realestate-managementdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995196325695:android:e083b09e99b253fb354d8a",
+        "android_client_info": {
+          "package_name": "com.example.real_estate_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995196325695-cijq4c00aonn3m2s2vvqc1b2a9c8iu1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyri2KE7eJ7IIA6FE1PVLesnj_MS3lPFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995196325695-cijq4c00aonn3m2s2vvqc1b2a9c8iu1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995196325695-5e4nfm6l6qpimm6buco1rc2qiegng4qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realEstateManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995196325695:android:1daa9e4690f4cfd7354d8a",
+        "android_client_info": {
+          "package_name": "com.example.testrealestatemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995196325695-cijq4c00aonn3m2s2vvqc1b2a9c8iu1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyri2KE7eJ7IIA6FE1PVLesnj_MS3lPFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995196325695-cijq4c00aonn3m2s2vvqc1b2a9c8iu1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995196325695-5e4nfm6l6qpimm6buco1rc2qiegng4qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realEstateManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
